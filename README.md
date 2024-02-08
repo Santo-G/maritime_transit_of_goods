@@ -7,7 +7,19 @@ The purpose of the project is to simulate the traffic of cargo ships for the tra
 <img src="port_to_port_shipments.png" alt="Port to port image" width="1023">
 </p>
 
-## Project decription
+## Table of Contents
+- [Project description](#project-description)
+- [Goods](#goods)
+- [Map](#map)
+- [Ship process](#ship-process)
+- [Port process](#port-process)
+- [Simulation status dump](#simulation-status-dump)
+- [Simulation termination](#simulation-termination)
+- [More project details](#more-project-details)
+- [Configuration](#configuration)
+- [Implementation requirements](#implementation-requirements)
+
+## Project description
 The aim is to simulate the traffic of cargo ships for the transportation of various goods through ports. This is achieved through the following processes:
 - A **Master** process responsible for creating the other processes and managing the simulation, as necessary
 - A number of **Ship** processes (SO_SHIPS) (>= 1)
@@ -81,7 +93,7 @@ For each port, indicate:
   - the quantity of goods present, shipped, and received
   - the number of docks occupied/total.
 
-### Simulation Termination
+### Simulation termination
 The simulation terminates under one of the following circumstances:
 - After a simulated time of SO_DAYS
 - When, for each type of goods:
@@ -135,7 +147,6 @@ There may be configuration parameter values that result in bizarre behaviors. In
 - CPU time utilization (avoiding busy waiting)
 
 ## Implementation requirements
-
 The project must:
 - Utilize shared memory, semaphores, and a inter-process communication mechanism chosen between message queues or pipes
 - Be implemented utilizing code modularization techniques (for example, various processes must be launched from different executables using execve(...))
