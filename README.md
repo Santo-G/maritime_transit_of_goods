@@ -129,3 +129,23 @@ There may be configuration parameter values that result in bizarre behaviors. In
 <p align="center">
 <img src="configuration_parameters.png" alt="Configuration parameters" width="1023">
 </p>
+
+## Guidelines
+- Minimization of wasted goods quantity 
+- CPU time utilization (avoiding busy waiting)
+
+## Implementation requirements
+
+The project must:
+- Utilize shared memory, semaphores, and a inter-process communication mechanism chosen between message queues or pipes
+- Be implemented utilizing code modularization techniques (for example, various processes must be launched from different executables using execve(...))
+- Be compiled using the make utility
+- Maximize the degree of concurrency among processes
+- Deallocate IPC resources that have been allocated by processes at the end of the game
+- Be compiled with at least the following compilation options:
+  - gcc -std=c89 -Wpedantic
+- Be able to run correctly on a machine (virtual or physical) that has parallelism (two or more processors).
+
+
+
+
