@@ -4,7 +4,7 @@ The purpose of the project is to simulate the traffic of cargo ships for the tra
 <br />
 
 <p align="center">
-<img src="port_to_port shipments.png" alt="Port to port image" width="1023">
+<img src="port_to_port_shipments.png" alt="Port to port image" width="1023">
 </p>
 
 ## Project decription
