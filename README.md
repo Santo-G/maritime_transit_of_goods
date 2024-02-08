@@ -17,6 +17,7 @@ The purpose of the project is to simulate the traffic of cargo ships for the tra
 - [Simulation termination](#simulation-termination)
 - [More project details](#more-project-details)
 - [Configuration](#configuration)
+- [Guidelines](#guidelines)
 - [Implementation requirements](#implementation-requirements)
 
 ## Project description
