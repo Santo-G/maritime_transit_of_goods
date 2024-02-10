@@ -27,7 +27,7 @@ The aim is to simulate the traffic of cargo ships for the transportation of vari
 
 The project description will refer to:
 - **Simulated time**, which is the time elapsed in the simulation (e.g., one day to transport a cargo)
-- **Real time**, which is the duration of the simulation execution (e.g., after initiation, the simulation ends after 30 seconds, despite simulating a duration of 30 days).
+- **Real time**, which is the duration of the simulation execution (e.g., after initiation, the simulation ends after 30 seconds, despite simulating a duration of 30 days)
 
 In the simulation, **one day of simulated time equals one second of real time**.
 
@@ -35,7 +35,7 @@ In the simulation, **one day of simulated time equals one second of real time**.
 In the simulation, there are SO_GOODS different types of goods. If deemed useful, each type of goods can be identified with a name or a numerical identifier. 
 Each batch of goods is characterized by:
 - a quantity of goods (in tons), randomly generated between 1 and SO_SIZE at the beginning of the simulation; and
-- a lifespan (in days), randomly generated between SO_MIN_LIFESPAN and SO_MAX_LIFESPAN, measured in days.
+- a lifespan (in days), randomly generated between SO_MIN_LIFESPAN and SO_MAX_LIFESPAN, measured in days
 
 Supply and demand for goods are generated at ports (see description below). 
 Every time a certain type of goods is generated at runtime, it will always have the same characteristics as described above.
@@ -52,9 +52,9 @@ The world map is represented by a square of side length SO_SIDE of type (double)
 
 ### Ship process
 Each ship has:
-- a speed SO_SPEED measured in kilometers per day (identical for all ships),
-- a position, represented by a pair of coordinates of type (double) within the map,
-- a capacity SO_CAPACITY (in tons) measuring the total transportable cargo (identical for all ships). A ship cannot carry a quantity of goods that exceeds its capacity.
+- a **speed** SO_SPEED measured in kilometers per day (identical for all ships)
+- a **position**, represented by a pair of coordinates of type (double) within the map
+- a **capacity** SO_CAPACITY (in tons) measuring the total transportable cargo (identical for all ships). A ship cannot carry a quantity of goods that exceeds its capacity
 
 Ships originate from random positions and without cargo. There is no limit to the number of ships that can occupy a certain position on the map, while the number of ships that can simultaneously perform loading/unloading operations at a port is limited by the number of docks.
 The ship's movement from one point to another is achieved through a nanosleep that simulates simulated time: distance between starting and destination positions / sailing speed.
@@ -63,7 +63,7 @@ Ships can have all information about ports: position, offered/requested goods, e
 
 Each ship, independently:
 - moves on the map
-- when it is in the position coinciding with the port, it can decide whether to access a dock, and if so, it can decide whether to unload or load the not yet expired goods.
+- when it is in the position coinciding with the port, it can decide whether to access a dock, and if so, it can decide whether to unload or load the not yet expired goods
 
 Negotiation between ship and port on the type and quantity of goods to be loaded or unloaded occurs at a discretion of the designer (before departing for the destination, upon arrival at the port, etc.).
 Ships cannot communicate with each other, nor know the contents of what is transported by other ships.
@@ -91,20 +91,20 @@ At the end of each day, a provisional report should be displayed containing:
 
 For each port, indicate:
   - the quantity of goods present, shipped, and received
-  - the number of docks occupied/total.
+  - the number of docks occupied/total
 
 ### Simulation termination
 The simulation terminates under one of the following circumstances:
 - After a simulated time of SO_DAYS
 - When, for each type of goods:
   - the supply is zero, or
-  - the demand is zero.
+  - the demand is zero
 
 The final report should indicate:
-- Number of ships still at sea with cargo onboard.
-- Number of ships still at sea without cargo.
-- Number of ships occupying a dock.
-- Total goods divided by type and status (available, delivered, etc).
+- Number of ships still at sea with cargo onboard
+- Number of ships still at sea without cargo
+- Number of ships occupying a dock
+- Total goods divided by type and status (available, delivered, etc)
 - For each port, indicate the quantity of goods:
   - present, shipped, and received
 - For each type of goods, indicate:
@@ -123,14 +123,14 @@ The generation of goods occurs throughout the entire simulation (not just at the
 Furthermore, the simulation aims to simulate some issues that can make navigation, loading, and unloading operations more difficult. 
 
 A new process called weather is responsible for randomly generating a series of inconveniences:
-- Storm: randomly hits a moving ship each day, stopping it in place for SO_STORM_DURATION hours.
-- Swell: randomly hits a port each day, halting all operations for SO_SWELL_DURATION hours.
-- Maelstrom: every SO_MAELSTROM hours, a ship is sunk, and its cargo, if any, is dispersed.
+- **Storm**: randomly hits a moving ship each day, stopping it in place for SO_STORM_DURATION hours
+- **Swell**: randomly hits a port each day, halting all operations for SO_SWELL_DURATION hours
+- **Maelstrom**: every SO_MAELSTROM hours, a ship is sunk, and its cargo, if any, is dispersed
 
 The simulation status dumps and the final report will account for the weather effects on maritime traffic, specifying (in addition):
-- How many ships were slowed down by the storm.
-- Which ports were affected by the swell.
-- How many ships were sunk due to the maelstrom.
+- How many ships were slowed down by the storm
+- Which ports were affected by the swell
+- How many ships were sunk due to the maelstrom
 In addition, the simulation also ends when all ships are sunk due to the maelstrom.
 
 ## Configuration
@@ -143,19 +143,19 @@ There may be configuration parameter values that result in bizarre behaviors. In
 </p>
 
 ## Guidelines
-- Minimization of wasted goods quantity 
-- CPU time utilization (avoiding busy waiting)
+- **Minimization of wasted goods quantity**
+- CPU time utilization (**avoiding busy waiting**)
 
 ## Implementation requirements
 The project must:
 - Utilize shared memory, semaphores, and a inter-process communication mechanism chosen between message queues or pipes
-- Be implemented utilizing code modularization techniques (for example, various processes must be launched from different executables using execve(...))
+- Be implemented utilizing **code modularization** techniques (for example, various processes must be launched from different executables using execve(...))
 - Be compiled using the make utility
-- Maximize the degree of concurrency among processes
+- **Maximize the degree of concurrency** among processes
 - Deallocate IPC resources that have been allocated by processes at the end of the game
 - Be compiled with at least the following compilation options:
-  - gcc -std=c89 -Wpedantic
-- Be able to run correctly on a machine (virtual or physical) that has parallelism (two or more processors).
+  - **gcc -std=c89 -Wpedantic**
+- Be able to run correctly on a machine (virtual or physical) that has **parallelism** (two or more processors).
 
 
 
