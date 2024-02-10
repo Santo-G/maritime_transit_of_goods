@@ -4,7 +4,7 @@ DEBUG = -g -O0
 
 MAIN = main_final.o common.o
 
-PORTS = ports_update.o common.o
+PORTS = ports.o common.o
 
 VESSELS = vessels_final.o common.o
 
@@ -33,8 +33,8 @@ common.o: common.o common.h
 main_debug: main_final.c common.o
 	$(CC) $(DEBUG) main_final.c common.o $(CFLAGS) -o main_debug
 	
-ports_debug: ports_update.c common.o
-	$(CC) $(DEBUG) ports_update.c common.o $(CFLAGS) -o ports
+ports_debug: ports.c common.o
+	$(CC) $(DEBUG) ports.c common.o $(CFLAGS) -o ports
 	
 vessels_debug: vessels_final.c common.o
 	$(CC) $(DEBUG) vessels_final.c common.o -lm $(CFLAGS) -o vessels
