@@ -2,7 +2,7 @@ CFLAGS = -std=c89 -Wall -Wpedantic -D_GNU_SOURCE
 
 DEBUG = -g -O0
 
-MAIN = main_final.o common.o
+MAIN = main.o common.o
 
 PORTS = ports.o common.o
 
@@ -30,8 +30,8 @@ weather: $(WEATHER)
 common.o: common.o common.h
 	gcc -c $(CFLAGS) common.c
 	
-main_debug: main_final.c common.o
-	$(CC) $(DEBUG) main_final.c common.o $(CFLAGS) -o main_debug
+main_debug: main.c common.o
+	$(CC) $(DEBUG) main.c common.o $(CFLAGS) -o main_debug
 	
 ports_debug: ports.c common.o
 	$(CC) $(DEBUG) ports.c common.o $(CFLAGS) -o ports

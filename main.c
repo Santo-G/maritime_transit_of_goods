@@ -227,7 +227,7 @@ int main() {
                 }
             }
             /* docks and busy docks */
-            fprintf(log_file, "Totla docks for each port: %d\n", init_docks);
+            fprintf(log_file, "Total docks for each port: %d\n", init_docks);
             for (i = 0; i < init_ports; i++) {
                 docks_id = get_docks(info_ports[i].pid);
                 busy_docks = init_docks - semctl(docks_id, DOCKS, GETVAL, 0);
@@ -238,7 +238,7 @@ int main() {
 
             printf("Day %d:\nI updated the transport log with ports info\n", day);
 
-            /* UPDATE VESSELS INFO */
+            /* Update vessels info */
             fprintf(log_file, "\nINFO VESSELS:\n");
             fprintf(log_file, "Number of vessels traveling loaded: %d\n", info_vessels->traveling_loaded);
             fprintf(log_file, "Number of vessels traveling empty: %d\n", info_vessels->traveling_unloaded);
