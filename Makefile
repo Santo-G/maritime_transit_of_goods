@@ -6,7 +6,7 @@ MAIN = main_final.o common.o
 
 PORTS = ports.o common.o
 
-VESSELS = vessels_final.o common.o
+VESSELS = vessels.o common.o
 
 WEATHER = weather.o common.o
 
@@ -36,8 +36,8 @@ main_debug: main_final.c common.o
 ports_debug: ports.c common.o
 	$(CC) $(DEBUG) ports.c common.o $(CFLAGS) -o ports
 	
-vessels_debug: vessels_final.c common.o
-	$(CC) $(DEBUG) vessels_final.c common.o -lm $(CFLAGS) -o vessels
+vessels_debug: vessels.c common.o
+	$(CC) $(DEBUG) vessels.c common.o -lm $(CFLAGS) -o vessels
 
 clean:
 	rm -f *.o main main_debug ports vessels weather Maritime_transit_of_goods_project logbook.txt *~
