@@ -1,0 +1,1749 @@
+END OF DAY 1:
+
+INFO PORTS:
+port 39011: 1 crates of goods available for loading
+port 39008: dispatched 404 crates of goods
+port 39010: dispatched 361 crates of goods
+port 39011: dispatched 1109 crates of goods
+port 39012: dispatched 26 crates of goods
+port 39014: dispatched 450 crates of goods
+port 39015: dispatched 290 crates of goods
+port 39016: dispatched 398 crates of goods
+port 39017: dispatched 39 crates of goods
+port 39018: dispatched 136 crates of goods
+port 39019: dispatched 1240 crates of goods
+port 39021: dispatched 455 crates of goods
+port 39024: dispatched 2974 crates of goods
+port 39025: dispatched 64 crates of goods
+port 39026: dispatched 822 crates of goods
+port 39028: dispatched 11 crates of goods
+port 39030: dispatched 429 crates of goods
+port 39031: dispatched 73 crates of goods
+port 39032: dispatched 104 crates of goods
+port 39033: dispatched 261 crates of goods
+port 39034: dispatched 185 crates of goods
+port 39035: dispatched 5 crates of goods
+port 39036: dispatched 865 crates of goods
+port 39037: dispatched 453 crates of goods
+port 39040: dispatched 308 crates of goods
+port 39042: dispatched 474 crates of goods
+port 39043: dispatched 3511 crates of goods
+port 39046: dispatched 397 crates of goods
+port 39047: dispatched 199 crates of goods
+port 39048: dispatched 126 crates of goods
+port 39050: dispatched 750 crates of goods
+port 39054: dispatched 289 crates of goods
+port 39055: dispatched 77 crates of goods
+port 39060: received 453 crates of goods
+port 39061: dispatched 869 crates of goods
+port 39063: dispatched 75 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 21 crates of goods
+port 39067: dispatched 237 crates of goods
+port 39071: dispatched 41 crates of goods
+port 39073: dispatched 41 crates of goods
+port 39077: dispatched 561 crates of goods
+port 39078: received 26 crates of goods
+port 39080: dispatched 26 crates of goods
+port 39089: dispatched 275 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39092: dispatched 1176 crates of goods
+port 39093: dispatched 16 crates of goods
+port 39096: dispatched 513 crates of goods
+port 39098: dispatched 37 crates of goods
+port 39104: received 289 crates of goods
+port 39106: dispatched 301 crates of goods
+Total docks for each port: 10
+port 39008: busy docks: 2
+port 39009: busy docks: 8
+port 39012: busy docks: 4
+port 39015: busy docks: 2
+port 39019: busy docks: 1
+port 39030: busy docks: 6
+port 39036: busy docks: 1
+port 39040: busy docks: 1
+port 39048: busy docks: 1
+port 39071: busy docks: 5
+port 39084: busy docks: 2
+port 39085: busy docks: 1
+port 39091: busy docks: 2
+port 39094: busy docks: 1
+port 39098: busy docks: 1
+
+INFO VESSELS:
+Number of vessels traveling loaded: 79
+Number of vessels traveling empty: 499
+Number of vessels in port: 97
+
+INFO GOODS:
+Goods present at the port: 1 crates of goods - type: 1
+Goods delivered: 768 crates of goods - type: 1
+Goods in transit: 21111 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 0
+
+Ports affected by the swell:
+port 39085
+
+END OF DAY 2:
+
+INFO PORTS:
+port 39009: 36 crates of goods available for loading
+port 39010: 3 crates of goods available for loading
+port 39011: 26 crates of goods available for loading
+port 39015: 10 crates of goods available for loading
+port 39016: 7 crates of goods available for loading
+port 39019: 3 crates of goods available for loading
+port 39021: 4 crates of goods available for loading
+port 39023: 3 crates of goods available for loading
+port 39026: 11 crates of goods available for loading
+port 39031: 4 crates of goods available for loading
+port 39032: 2 crates of goods available for loading
+port 39037: 39 crates of goods available for loading
+port 39040: 3 crates of goods available for loading
+port 39046: 9 crates of goods available for loading
+port 39049: 3 crates of goods available for loading
+port 39050: 4 crates of goods available for loading
+port 39055: 10 crates of goods available for loading
+port 39056: 1 crates of goods available for loading
+port 39059: 8 crates of goods available for loading
+port 39061: 17 crates of goods available for loading
+port 39063: 5 crates of goods available for loading
+port 39071: 6 crates of goods available for loading
+port 39073: 7 crates of goods available for loading
+port 39077: 19 crates of goods available for loading
+port 39080: 23 crates of goods available for loading
+port 39084: 3 crates of goods available for loading
+port 39086: 1245 crates of goods available for loading
+port 39091: 20 crates of goods available for loading
+port 39092: 1958 crates of goods available for loading
+port 39093: 2500 crates of goods available for loading
+port 39094: 3 crates of goods available for loading
+port 39096: 163 crates of goods available for loading
+port 39098: 623 crates of goods available for loading
+port 39101: 311 crates of goods available for loading
+port 39103: 1 crates of goods available for loading
+port 39106: 103 crates of goods available for loading
+port 39008: dispatched 5787 crates of goods
+port 39009: dispatched 11286 crates of goods
+port 39010: dispatched 2929 crates of goods
+port 39011: dispatched 3244 crates of goods
+port 39012: dispatched 3285 crates of goods
+port 39013: received 26 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 3820 crates of goods
+port 39016: dispatched 647 crates of goods
+port 39017: dispatched 616 crates of goods
+port 39018: dispatched 1279 crates of goods
+port 39019: dispatched 2384 crates of goods
+port 39020: received 26 crates of goods
+port 39021: dispatched 912 crates of goods
+port 39022: dispatched 73 crates of goods
+port 39023: dispatched 506 crates of goods
+port 39024: dispatched 5010 crates of goods
+port 39025: dispatched 377 crates of goods
+port 39026: dispatched 3107 crates of goods
+port 39027: received 439 crates of goods
+port 39028: dispatched 1226 crates of goods
+port 39030: dispatched 5390 crates of goods
+port 39031: dispatched 830 crates of goods
+port 39032: dispatched 104 crates of goods
+port 39033: dispatched 649 crates of goods
+port 39034: dispatched 185 crates of goods
+port 39035: dispatched 1189 crates of goods
+port 39036: dispatched 1397 crates of goods
+port 39037: dispatched 948 crates of goods
+port 39039: received 513 crates of goods
+port 39040: dispatched 1317 crates of goods
+port 39041: dispatched 1290 crates of goods
+port 39042: dispatched 474 crates of goods
+port 39043: dispatched 4918 crates of goods
+port 39046: dispatched 1106 crates of goods
+port 39047: dispatched 199 crates of goods
+port 39048: dispatched 941 crates of goods
+port 39049: dispatched 299 crates of goods
+port 39050: dispatched 1528 crates of goods
+port 39051: received 311 crates of goods
+port 39054: dispatched 468 crates of goods
+port 39055: dispatched 342 crates of goods
+port 39056: dispatched 86 crates of goods
+port 39057: received 126 crates of goods
+port 39058: received 37 crates of goods
+port 39059: dispatched 2030 crates of goods
+port 39060: received 479 crates of goods
+port 39061: dispatched 2204 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 765 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 21 crates of goods
+port 39066: received 16 crates of goods
+port 39067: dispatched 237 crates of goods
+port 39069: received 39 crates of goods
+port 39070: received 70 crates of goods
+port 39071: dispatched 4294 crates of goods
+port 39073: dispatched 614 crates of goods
+port 39075: received 38 crates of goods
+port 39077: dispatched 4133 crates of goods
+port 39078: received 26 crates of goods
+port 39079: received 65 crates of goods
+port 39080: dispatched 700 crates of goods
+port 39081: received 20 crates of goods
+port 39082: received 403 crates of goods
+port 39084: dispatched 1805 crates of goods
+port 39085: dispatched 965 crates of goods
+port 39086: dispatched 1 crates of goods
+port 39087: received 398 crates of goods
+port 39089: dispatched 2511 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 3564 crates of goods
+port 39092: dispatched 2067 crates of goods
+port 39093: dispatched 507 crates of goods
+port 39094: dispatched 999 crates of goods
+port 39095: received 136 crates of goods
+port 39096: dispatched 517 crates of goods
+port 39097: received 26 crates of goods
+port 39098: dispatched 635 crates of goods
+port 39099: received 8 crates of goods
+port 39100: received 303 crates of goods
+port 39101: dispatched 21 crates of goods
+port 39103: dispatched 416 crates of goods
+port 39104: received 2529 crates of goods
+port 39105: received 1882 crates of goods
+port 39106: dispatched 1631 crates of goods
+port 39107: received 75 crates of goods
+Total docks for each port: 10
+port 39008: busy docks: 1
+port 39009: busy docks: 6
+port 39010: busy docks: 2
+port 39012: busy docks: 6
+port 39015: busy docks: 1
+port 39016: busy docks: 2
+port 39017: busy docks: 5
+port 39018: busy docks: 5
+port 39019: busy docks: 3
+port 39022: busy docks: 5
+port 39024: busy docks: 2
+port 39025: busy docks: 1
+port 39026: busy docks: 1
+port 39028: busy docks: 3
+port 39030: busy docks: 2
+port 39034: busy docks: 1
+port 39035: busy docks: 2
+port 39037: busy docks: 9
+port 39041: busy docks: 1
+port 39048: busy docks: 2
+port 39050: busy docks: 3
+port 39054: busy docks: 1
+port 39063: busy docks: 1
+port 39070: busy docks: 1
+port 39072: busy docks: 2
+port 39073: busy docks: 1
+port 39079: busy docks: 3
+port 39082: busy docks: 2
+port 39085: busy docks: 1
+port 39089: busy docks: 3
+port 39092: busy docks: 2
+port 39093: busy docks: 2
+port 39094: busy docks: 2
+port 39096: busy docks: 3
+
+INFO VESSELS:
+Number of vessels traveling loaded: 295
+Number of vessels traveling empty: 370
+Number of vessels in port: 335
+
+INFO GOODS:
+Goods present at the port: 7193 crates of goods - type: 1
+Goods delivered: 7991 crates of goods - type: 1
+Goods in transit: 94152 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 1
+
+Ports affected by the swell:
+port 39085
+
+END OF DAY 3:
+
+INFO PORTS:
+port 39008: 6820 crates of goods available for loading
+port 39010: 3 crates of goods available for loading
+port 39011: 5590 crates of goods available for loading
+port 39012: 3749 crates of goods available for loading
+port 39014: 982 crates of goods available for loading
+port 39015: 4017 crates of goods available for loading
+port 39016: 859 crates of goods available for loading
+port 39017: 2637 crates of goods available for loading
+port 39018: 2103 crates of goods available for loading
+port 39019: 4187 crates of goods available for loading
+port 39021: 2049 crates of goods available for loading
+port 39022: 6558 crates of goods available for loading
+port 39024: 4013 crates of goods available for loading
+port 39025: 3449 crates of goods available for loading
+port 39026: 482 crates of goods available for loading
+port 39028: 1951 crates of goods available for loading
+port 39031: 3143 crates of goods available for loading
+port 39032: 157 crates of goods available for loading
+port 39033: 4295 crates of goods available for loading
+port 39034: 1230 crates of goods available for loading
+port 39035: 3921 crates of goods available for loading
+port 39037: 4990 crates of goods available for loading
+port 39040: 2653 crates of goods available for loading
+port 39041: 439 crates of goods available for loading
+port 39047: 1690 crates of goods available for loading
+port 39048: 247 crates of goods available for loading
+port 39050: 3020 crates of goods available for loading
+port 39054: 2047 crates of goods available for loading
+port 39055: 210 crates of goods available for loading
+port 39056: 1 crates of goods available for loading
+port 39059: 1106 crates of goods available for loading
+port 39061: 1130 crates of goods available for loading
+port 39063: 853 crates of goods available for loading
+port 39064: 1031 crates of goods available for loading
+port 39067: 1065 crates of goods available for loading
+port 39071: 9901 crates of goods available for loading
+port 39073: 2133 crates of goods available for loading
+port 39077: 557 crates of goods available for loading
+port 39080: 1257 crates of goods available for loading
+port 39084: 77 crates of goods available for loading
+port 39085: 619 crates of goods available for loading
+port 39086: 3720 crates of goods available for loading
+port 39089: 309 crates of goods available for loading
+port 39090: 1 crates of goods available for loading
+port 39091: 1 crates of goods available for loading
+port 39093: 81 crates of goods available for loading
+port 39094: 19 crates of goods available for loading
+port 39096: 166 crates of goods available for loading
+port 39098: 628 crates of goods available for loading
+port 39101: 313 crates of goods available for loading
+port 39103: 2 crates of goods available for loading
+port 39106: 78 crates of goods available for loading
+port 39008: dispatched 10634 crates of goods
+port 39009: dispatched 17559 crates of goods
+port 39010: dispatched 7856 crates of goods
+port 39011: dispatched 5065 crates of goods
+port 39012: dispatched 6968 crates of goods
+port 39013: received 4367 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 4704 crates of goods
+port 39016: dispatched 1739 crates of goods
+port 39017: dispatched 6505 crates of goods
+port 39018: dispatched 4808 crates of goods
+port 39019: dispatched 5426 crates of goods
+port 39020: received 4509 crates of goods
+port 39021: dispatched 912 crates of goods
+port 39022: dispatched 4462 crates of goods
+port 39023: dispatched 506 crates of goods
+port 39024: dispatched 6420 crates of goods
+port 39025: dispatched 2538 crates of goods
+port 39026: dispatched 3699 crates of goods
+port 39027: received 594 crates of goods
+port 39028: dispatched 5154 crates of goods
+port 39029: received 315 crates of goods
+port 39030: dispatched 8067 crates of goods
+port 39031: dispatched 1494 crates of goods
+port 39032: dispatched 104 crates of goods
+port 39033: dispatched 1708 crates of goods
+port 39034: dispatched 1293 crates of goods
+port 39035: dispatched 4120 crates of goods
+port 39036: dispatched 1397 crates of goods
+port 39037: dispatched 6228 crates of goods
+port 39038: received 2334 crates of goods
+port 39039: received 1061 crates of goods
+port 39040: dispatched 1317 crates of goods
+port 39041: dispatched 3052 crates of goods
+port 39042: dispatched 474 crates of goods
+port 39043: dispatched 4987 crates of goods
+port 39044: received 583 crates of goods
+port 39045: received 1248 crates of goods
+port 39046: dispatched 1115 crates of goods
+port 39047: dispatched 199 crates of goods
+port 39048: dispatched 2215 crates of goods
+port 39049: dispatched 299 crates of goods
+port 39050: dispatched 3916 crates of goods
+port 39051: received 1180 crates of goods
+port 39052: received 1109 crates of goods
+port 39053: received 4336 crates of goods
+port 39054: dispatched 1435 crates of goods
+port 39055: dispatched 342 crates of goods
+port 39056: dispatched 86 crates of goods
+port 39057: received 1550 crates of goods
+port 39058: received 37 crates of goods
+port 39059: dispatched 2452 crates of goods
+port 39060: received 979 crates of goods
+port 39061: dispatched 2725 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1836 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 21 crates of goods
+port 39066: received 749 crates of goods
+port 39067: dispatched 299 crates of goods
+port 39068: received 402 crates of goods
+port 39069: received 304 crates of goods
+port 39070: received 1813 crates of goods
+port 39071: dispatched 4670 crates of goods
+port 39072: received 9085 crates of goods
+port 39073: dispatched 2063 crates of goods
+port 39074: received 1125 crates of goods
+port 39075: received 38 crates of goods
+port 39076: received 375 crates of goods
+port 39077: dispatched 4142 crates of goods
+port 39078: received 852 crates of goods
+port 39079: received 2615 crates of goods
+port 39080: dispatched 700 crates of goods
+port 39081: received 20 crates of goods
+port 39082: received 2478 crates of goods
+port 39083: received 76 crates of goods
+port 39084: dispatched 1805 crates of goods
+port 39085: dispatched 1689 crates of goods
+port 39086: dispatched 1 crates of goods
+port 39087: received 398 crates of goods
+port 39088: received 700 crates of goods
+port 39089: dispatched 9042 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 3586 crates of goods
+port 39092: dispatched 4209 crates of goods
+port 39093: dispatched 1615 crates of goods
+port 39094: dispatched 2130 crates of goods
+port 39095: received 139 crates of goods
+port 39096: dispatched 2303 crates of goods
+port 39097: received 4815 crates of goods
+port 39098: dispatched 635 crates of goods
+port 39099: received 36 crates of goods
+port 39100: received 1597 crates of goods
+port 39101: dispatched 277 crates of goods
+port 39102: received 277 crates of goods
+port 39103: dispatched 416 crates of goods
+port 39104: received 6582 crates of goods
+port 39105: received 3546 crates of goods
+port 39106: dispatched 1631 crates of goods
+port 39107: received 1330 crates of goods
+Total docks for each port: 10
+port 39009: busy docks: 2
+port 39010: busy docks: 2
+port 39018: busy docks: 1
+port 39019: busy docks: 1
+port 39020: busy docks: 2
+port 39027: busy docks: 1
+port 39038: busy docks: 2
+port 39039: busy docks: 3
+port 39048: busy docks: 2
+port 39050: busy docks: 1
+port 39051: busy docks: 1
+port 39054: busy docks: 2
+port 39057: busy docks: 3
+port 39058: busy docks: 1
+port 39060: busy docks: 9
+port 39066: busy docks: 2
+port 39070: busy docks: 9
+port 39072: busy docks: 10
+port 39076: busy docks: 3
+port 39078: busy docks: 2
+port 39079: busy docks: 7
+port 39082: busy docks: 5
+port 39085: busy docks: 1
+port 39087: busy docks: 3
+port 39089: busy docks: 1
+port 39092: busy docks: 2
+port 39100: busy docks: 2
+port 39104: busy docks: 2
+port 39105: busy docks: 2
+
+INFO VESSELS:
+Number of vessels traveling loaded: 364
+Number of vessels traveling empty: 202
+Number of vessels in port: 434
+
+INFO GOODS:
+Goods present at the port: 102539 crates of goods - type: 1
+Goods delivered: 63554 crates of goods - type: 1
+Goods in transit: 124854 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 2
+
+Ports affected by the swell:
+port 39085
+
+END OF DAY 4:
+
+INFO PORTS:
+port 39008: 5253 crates of goods available for loading
+port 39010: 6223 crates of goods available for loading
+port 39011: 2762 crates of goods available for loading
+port 39012: 932 crates of goods available for loading
+port 39014: 6433 crates of goods available for loading
+port 39015: 4425 crates of goods available for loading
+port 39016: 896 crates of goods available for loading
+port 39017: 9461 crates of goods available for loading
+port 39018: 11591 crates of goods available for loading
+port 39019: 10006 crates of goods available for loading
+port 39021: 4348 crates of goods available for loading
+port 39022: 5419 crates of goods available for loading
+port 39024: 1914 crates of goods available for loading
+port 39025: 1513 crates of goods available for loading
+port 39026: 483 crates of goods available for loading
+port 39028: 772 crates of goods available for loading
+port 39030: 148 crates of goods available for loading
+port 39031: 7323 crates of goods available for loading
+port 39032: 157 crates of goods available for loading
+port 39033: 6277 crates of goods available for loading
+port 39034: 2412 crates of goods available for loading
+port 39035: 6840 crates of goods available for loading
+port 39036: 2352 crates of goods available for loading
+port 39037: 4951 crates of goods available for loading
+port 39040: 3190 crates of goods available for loading
+port 39041: 5018 crates of goods available for loading
+port 39043: 482 crates of goods available for loading
+port 39046: 74 crates of goods available for loading
+port 39047: 1690 crates of goods available for loading
+port 39048: 3216 crates of goods available for loading
+port 39049: 19 crates of goods available for loading
+port 39050: 6134 crates of goods available for loading
+port 39054: 3826 crates of goods available for loading
+port 39055: 2278 crates of goods available for loading
+port 39056: 9 crates of goods available for loading
+port 39059: 1471 crates of goods available for loading
+port 39061: 1258 crates of goods available for loading
+port 39062: 1 crates of goods available for loading
+port 39063: 848 crates of goods available for loading
+port 39064: 2217 crates of goods available for loading
+port 39067: 3339 crates of goods available for loading
+port 39071: 11760 crates of goods available for loading
+port 39073: 2322 crates of goods available for loading
+port 39077: 1585 crates of goods available for loading
+port 39080: 1238 crates of goods available for loading
+port 39084: 78 crates of goods available for loading
+port 39085: 5363 crates of goods available for loading
+port 39086: 3384 crates of goods available for loading
+port 39089: 2748 crates of goods available for loading
+port 39090: 1 crates of goods available for loading
+port 39092: 2076 crates of goods available for loading
+port 39093: 39 crates of goods available for loading
+port 39094: 24 crates of goods available for loading
+port 39096: 603 crates of goods available for loading
+port 39098: 2377 crates of goods available for loading
+port 39101: 2 crates of goods available for loading
+port 39103: 297 crates of goods available for loading
+port 39008: dispatched 11536 crates of goods
+port 39009: dispatched 18722 crates of goods
+port 39010: dispatched 9943 crates of goods
+port 39011: dispatched 5994 crates of goods
+port 39012: dispatched 8208 crates of goods
+port 39013: received 8524 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 5660 crates of goods
+port 39016: dispatched 1746 crates of goods
+port 39017: dispatched 6730 crates of goods
+port 39018: dispatched 5405 crates of goods
+port 39019: dispatched 6100 crates of goods
+port 39020: received 9649 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 4462 crates of goods
+port 39023: dispatched 509 crates of goods
+port 39024: dispatched 6678 crates of goods
+port 39025: dispatched 2919 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 3820 crates of goods
+port 39028: dispatched 5163 crates of goods
+port 39029: received 2537 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 1501 crates of goods
+port 39032: dispatched 104 crates of goods
+port 39033: dispatched 1717 crates of goods
+port 39034: dispatched 1293 crates of goods
+port 39035: dispatched 4132 crates of goods
+port 39036: dispatched 1397 crates of goods
+port 39037: dispatched 6228 crates of goods
+port 39038: received 5390 crates of goods
+port 39039: received 6758 crates of goods
+port 39040: dispatched 1320 crates of goods
+port 39041: dispatched 3052 crates of goods
+port 39042: dispatched 474 crates of goods
+port 39043: dispatched 5006 crates of goods
+port 39044: received 3449 crates of goods
+port 39045: received 3313 crates of goods
+port 39046: dispatched 1115 crates of goods
+port 39047: dispatched 199 crates of goods
+port 39048: dispatched 3266 crates of goods
+port 39049: dispatched 302 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 1840 crates of goods
+port 39052: received 2496 crates of goods
+port 39053: received 5521 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 352 crates of goods
+port 39056: dispatched 86 crates of goods
+port 39057: received 3976 crates of goods
+port 39058: received 635 crates of goods
+port 39059: dispatched 2463 crates of goods
+port 39060: received 7779 crates of goods
+port 39061: dispatched 2779 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1856 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 21 crates of goods
+port 39066: received 3488 crates of goods
+port 39067: dispatched 299 crates of goods
+port 39068: received 1583 crates of goods
+port 39069: received 378 crates of goods
+port 39070: received 9258 crates of goods
+port 39071: dispatched 4670 crates of goods
+port 39072: received 15479 crates of goods
+port 39073: dispatched 2339 crates of goods
+port 39074: received 2397 crates of goods
+port 39075: received 38 crates of goods
+port 39076: received 3282 crates of goods
+port 39077: dispatched 4161 crates of goods
+port 39078: received 2477 crates of goods
+port 39079: received 7618 crates of goods
+port 39080: dispatched 704 crates of goods
+port 39081: received 152 crates of goods
+port 39082: received 6591 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 1808 crates of goods
+port 39085: dispatched 2281 crates of goods
+port 39086: dispatched 599 crates of goods
+port 39087: received 3163 crates of goods
+port 39088: received 2632 crates of goods
+port 39089: dispatched 10200 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 3587 crates of goods
+port 39092: dispatched 6891 crates of goods
+port 39093: dispatched 2833 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 980 crates of goods
+port 39096: dispatched 2310 crates of goods
+port 39097: received 5449 crates of goods
+port 39098: dispatched 635 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 4698 crates of goods
+port 39101: dispatched 291 crates of goods
+port 39102: received 277 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 10632 crates of goods
+port 39105: received 5584 crates of goods
+port 39106: dispatched 1656 crates of goods
+port 39107: received 1353 crates of goods
+Total docks for each port: 10
+port 39013: busy docks: 5
+port 39020: busy docks: 1
+port 39027: busy docks: 2
+port 39029: busy docks: 2
+port 39039: busy docks: 6
+port 39044: busy docks: 3
+port 39045: busy docks: 1
+port 39051: busy docks: 2
+port 39053: busy docks: 2
+port 39057: busy docks: 5
+port 39060: busy docks: 1
+port 39066: busy docks: 1
+port 39068: busy docks: 2
+port 39069: busy docks: 2
+port 39070: busy docks: 1
+port 39074: busy docks: 2
+port 39076: busy docks: 2
+port 39078: busy docks: 2
+port 39079: busy docks: 1
+port 39088: busy docks: 2
+port 39097: busy docks: 3
+port 39100: busy docks: 1
+port 39104: busy docks: 3
+port 39105: busy docks: 1
+port 39107: busy docks: 1
+
+INFO VESSELS:
+Number of vessels traveling loaded: 230
+Number of vessels traveling empty: 366
+Number of vessels in port: 404
+
+INFO GOODS:
+Goods present at the port: 171858 crates of goods - type: 1
+Goods delivered: 153313 crates of goods - type: 1
+Goods in transit: 52539 crates of goods - type: 1
+Expired goods on board: 1512 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 3
+
+Ports affected by the swell:
+port 39085
+
+END OF DAY 5:
+
+INFO PORTS:
+port 39031: 2294 crates of goods available for loading
+port 39032: 1 crates of goods available for loading
+port 39036: 17 crates of goods available for loading
+port 39040: 38 crates of goods available for loading
+port 39041: 2 crates of goods available for loading
+port 39046: 666 crates of goods available for loading
+port 39048: 1016 crates of goods available for loading
+port 39049: 1 crates of goods available for loading
+port 39054: 546 crates of goods available for loading
+port 39055: 273 crates of goods available for loading
+port 39059: 4 crates of goods available for loading
+port 39061: 1445 crates of goods available for loading
+port 39065: 1496 crates of goods available for loading
+port 39067: 1577 crates of goods available for loading
+port 39071: 68 crates of goods available for loading
+port 39073: 34 crates of goods available for loading
+port 39077: 1828 crates of goods available for loading
+port 39084: 176 crates of goods available for loading
+port 39085: 1 crates of goods available for loading
+port 39089: 8742 crates of goods available for loading
+port 39091: 4371 crates of goods available for loading
+port 39092: 1093 crates of goods available for loading
+port 39093: 2186 crates of goods available for loading
+port 39098: 137 crates of goods available for loading
+port 39101: 9 crates of goods available for loading
+port 39008: dispatched 13374 crates of goods
+port 39009: dispatched 19595 crates of goods
+port 39010: dispatched 10024 crates of goods
+port 39011: dispatched 9843 crates of goods
+port 39012: dispatched 14455 crates of goods
+port 39013: received 12668 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 8810 crates of goods
+port 39016: dispatched 1746 crates of goods
+port 39017: dispatched 6742 crates of goods
+port 39018: dispatched 5405 crates of goods
+port 39019: dispatched 6108 crates of goods
+port 39020: received 12481 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 6065 crates of goods
+port 39023: dispatched 515 crates of goods
+port 39024: dispatched 10396 crates of goods
+port 39025: dispatched 5850 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 6716 crates of goods
+port 39028: dispatched 6574 crates of goods
+port 39029: received 3777 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 1505 crates of goods
+port 39032: dispatched 106 crates of goods
+port 39033: dispatched 1717 crates of goods
+port 39034: dispatched 1293 crates of goods
+port 39035: dispatched 4138 crates of goods
+port 39036: dispatched 1397 crates of goods
+port 39037: dispatched 6267 crates of goods
+port 39038: received 5390 crates of goods
+port 39039: received 12298 crates of goods
+port 39040: dispatched 1320 crates of goods
+port 39041: dispatched 3052 crates of goods
+port 39042: dispatched 474 crates of goods
+port 39043: dispatched 5353 crates of goods
+port 39044: received 4497 crates of goods
+port 39045: received 4237 crates of goods
+port 39046: dispatched 1115 crates of goods
+port 39047: dispatched 199 crates of goods
+port 39048: dispatched 3266 crates of goods
+port 39049: dispatched 302 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 2171 crates of goods
+port 39052: received 2807 crates of goods
+port 39053: received 10151 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 352 crates of goods
+port 39056: dispatched 87 crates of goods
+port 39057: received 7520 crates of goods
+port 39058: received 635 crates of goods
+port 39059: dispatched 2466 crates of goods
+port 39060: received 12165 crates of goods
+port 39061: dispatched 2783 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1856 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 21 crates of goods
+port 39066: received 4393 crates of goods
+port 39067: dispatched 299 crates of goods
+port 39068: received 2845 crates of goods
+port 39069: received 1449 crates of goods
+port 39070: received 9932 crates of goods
+port 39071: dispatched 4670 crates of goods
+port 39072: received 15479 crates of goods
+port 39073: dispatched 2345 crates of goods
+port 39074: received 3593 crates of goods
+port 39075: received 38 crates of goods
+port 39076: received 4747 crates of goods
+port 39077: dispatched 4161 crates of goods
+port 39078: received 3996 crates of goods
+port 39079: received 10795 crates of goods
+port 39080: dispatched 720 crates of goods
+port 39081: received 168 crates of goods
+port 39082: received 11723 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 1808 crates of goods
+port 39085: dispatched 2281 crates of goods
+port 39086: dispatched 1173 crates of goods
+port 39087: received 3365 crates of goods
+port 39088: received 4491 crates of goods
+port 39089: dispatched 10234 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 3587 crates of goods
+port 39092: dispatched 7035 crates of goods
+port 39093: dispatched 3906 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 2431 crates of goods
+port 39096: dispatched 2459 crates of goods
+port 39097: received 7603 crates of goods
+port 39098: dispatched 1236 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 5415 crates of goods
+port 39101: dispatched 570 crates of goods
+port 39102: received 277 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 12605 crates of goods
+port 39105: received 6214 crates of goods
+port 39106: dispatched 1731 crates of goods
+port 39107: received 1475 crates of goods
+Total docks for each port: 10
+port 39011: busy docks: 3
+port 39012: busy docks: 3
+port 39019: busy docks: 1
+port 39025: busy docks: 1
+port 39044: busy docks: 1
+port 39060: busy docks: 1
+
+INFO VESSELS:
+Number of vessels traveling loaded: 186
+Number of vessels traveling empty: 454
+Number of vessels in port: 360
+
+INFO GOODS:
+Goods present at the port: 28021 crates of goods - type: 1
+Goods delivered: 210664 crates of goods - type: 1
+Goods in transit: 23258 crates of goods - type: 1
+Expired goods on board: 2526 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 4
+
+Ports affected by the swell:
+port 39085
+
+END OF DAY 6:
+
+INFO PORTS:
+port 39008: 1854 crates of goods available for loading
+port 39009: 8923 crates of goods available for loading
+port 39010: 8903 crates of goods available for loading
+port 39011: 4031 crates of goods available for loading
+port 39012: 6958 crates of goods available for loading
+port 39014: 5451 crates of goods available for loading
+port 39015: 7456 crates of goods available for loading
+port 39016: 1730 crates of goods available for loading
+port 39017: 6926 crates of goods available for loading
+port 39018: 9630 crates of goods available for loading
+port 39019: 12899 crates of goods available for loading
+port 39021: 2299 crates of goods available for loading
+port 39022: 1231 crates of goods available for loading
+port 39023: 4249 crates of goods available for loading
+port 39024: 2686 crates of goods available for loading
+port 39025: 2958 crates of goods available for loading
+port 39026: 1 crates of goods available for loading
+port 39028: 3414 crates of goods available for loading
+port 39030: 148 crates of goods available for loading
+port 39031: 4305 crates of goods available for loading
+port 39032: 3270 crates of goods available for loading
+port 39033: 4505 crates of goods available for loading
+port 39034: 4971 crates of goods available for loading
+port 39035: 8886 crates of goods available for loading
+port 39036: 5885 crates of goods available for loading
+port 39037: 204 crates of goods available for loading
+port 39040: 727 crates of goods available for loading
+port 39041: 8548 crates of goods available for loading
+port 39042: 51 crates of goods available for loading
+port 39043: 495 crates of goods available for loading
+port 39046: 3182 crates of goods available for loading
+port 39047: 2 crates of goods available for loading
+port 39048: 2972 crates of goods available for loading
+port 39049: 20 crates of goods available for loading
+port 39050: 3114 crates of goods available for loading
+port 39054: 2351 crates of goods available for loading
+port 39055: 2352 crates of goods available for loading
+port 39056: 9 crates of goods available for loading
+port 39059: 2196 crates of goods available for loading
+port 39061: 128 crates of goods available for loading
+port 39062: 1 crates of goods available for loading
+port 39063: 1002 crates of goods available for loading
+port 39064: 1186 crates of goods available for loading
+port 39067: 2274 crates of goods available for loading
+port 39071: 1927 crates of goods available for loading
+port 39073: 3256 crates of goods available for loading
+port 39077: 3904 crates of goods available for loading
+port 39084: 818 crates of goods available for loading
+port 39085: 4745 crates of goods available for loading
+port 39086: 909 crates of goods available for loading
+port 39089: 8782 crates of goods available for loading
+port 39091: 4782 crates of goods available for loading
+port 39092: 3169 crates of goods available for loading
+port 39093: 2654 crates of goods available for loading
+port 39094: 837 crates of goods available for loading
+port 39096: 593 crates of goods available for loading
+port 39098: 15577 crates of goods available for loading
+port 39101: 6543 crates of goods available for loading
+port 39103: 296 crates of goods available for loading
+port 39106: 1633 crates of goods available for loading
+port 39008: dispatched 15488 crates of goods
+port 39009: dispatched 22585 crates of goods
+port 39010: dispatched 10673 crates of goods
+port 39011: dispatched 15144 crates of goods
+port 39012: dispatched 18936 crates of goods
+port 39013: received 12930 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 10209 crates of goods
+port 39016: dispatched 3592 crates of goods
+port 39017: dispatched 7490 crates of goods
+port 39018: dispatched 8745 crates of goods
+port 39019: dispatched 8490 crates of goods
+port 39020: received 16902 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 7347 crates of goods
+port 39023: dispatched 2506 crates of goods
+port 39024: dispatched 13427 crates of goods
+port 39025: dispatched 11092 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 6716 crates of goods
+port 39028: dispatched 7475 crates of goods
+port 39029: received 3777 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 2443 crates of goods
+port 39032: dispatched 106 crates of goods
+port 39033: dispatched 3378 crates of goods
+port 39034: dispatched 2538 crates of goods
+port 39035: dispatched 4733 crates of goods
+port 39036: dispatched 1397 crates of goods
+port 39037: dispatched 6267 crates of goods
+port 39038: received 5390 crates of goods
+port 39039: received 12298 crates of goods
+port 39040: dispatched 1320 crates of goods
+port 39041: dispatched 3052 crates of goods
+port 39042: dispatched 1150 crates of goods
+port 39043: dispatched 6891 crates of goods
+port 39044: received 4497 crates of goods
+port 39045: received 4237 crates of goods
+port 39046: dispatched 1115 crates of goods
+port 39047: dispatched 2838 crates of goods
+port 39048: dispatched 3266 crates of goods
+port 39049: dispatched 302 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 2171 crates of goods
+port 39052: received 2838 crates of goods
+port 39053: received 16984 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 352 crates of goods
+port 39056: dispatched 90 crates of goods
+port 39057: received 7705 crates of goods
+port 39058: received 635 crates of goods
+port 39059: dispatched 2466 crates of goods
+port 39060: received 15259 crates of goods
+port 39061: dispatched 3375 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1856 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 21 crates of goods
+port 39066: received 4393 crates of goods
+port 39067: dispatched 299 crates of goods
+port 39068: received 2845 crates of goods
+port 39069: received 1449 crates of goods
+port 39070: received 9932 crates of goods
+port 39071: dispatched 4670 crates of goods
+port 39072: received 15479 crates of goods
+port 39073: dispatched 2345 crates of goods
+port 39074: received 3611 crates of goods
+port 39075: received 38 crates of goods
+port 39076: received 5143 crates of goods
+port 39077: dispatched 4161 crates of goods
+port 39078: received 3996 crates of goods
+port 39079: received 11274 crates of goods
+port 39080: dispatched 720 crates of goods
+port 39081: received 168 crates of goods
+port 39082: received 15174 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 1808 crates of goods
+port 39085: dispatched 2281 crates of goods
+port 39086: dispatched 1173 crates of goods
+port 39087: received 3365 crates of goods
+port 39088: received 4491 crates of goods
+port 39089: dispatched 10234 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 3587 crates of goods
+port 39092: dispatched 7035 crates of goods
+port 39093: dispatched 3906 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 2557 crates of goods
+port 39096: dispatched 2459 crates of goods
+port 39097: received 8727 crates of goods
+port 39098: dispatched 1236 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 5415 crates of goods
+port 39101: dispatched 570 crates of goods
+port 39102: received 277 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 12605 crates of goods
+port 39105: received 6214 crates of goods
+port 39106: dispatched 1731 crates of goods
+port 39107: received 2868 crates of goods
+Total docks for each port: 10
+port 39016: busy docks: 1
+port 39019: busy docks: 8
+port 39023: busy docks: 2
+port 39028: busy docks: 1
+port 39035: busy docks: 1
+port 39070: busy docks: 1
+
+INFO VESSELS:
+Number of vessels traveling loaded: 264
+Number of vessels traveling empty: 372
+Number of vessels in port: 364
+
+INFO GOODS:
+Goods present at the port: 214808 crates of goods - type: 1
+Goods delivered: 232477 crates of goods - type: 1
+Goods in transit: 49025 crates of goods - type: 1
+Expired goods on board: 2530 crates of goods - type: 1
+Expired goods in port: 65628 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 4
+
+Ports affected by the swell:
+port 39085
+port 39013
+
+END OF DAY 7:
+
+INFO PORTS:
+port 39008: 6507 crates of goods available for loading
+port 39009: 15854 crates of goods available for loading
+port 39010: 9118 crates of goods available for loading
+port 39011: 3518 crates of goods available for loading
+port 39012: 9670 crates of goods available for loading
+port 39015: 8000 crates of goods available for loading
+port 39016: 1770 crates of goods available for loading
+port 39017: 252 crates of goods available for loading
+port 39018: 1750 crates of goods available for loading
+port 39019: 7422 crates of goods available for loading
+port 39022: 6197 crates of goods available for loading
+port 39023: 5165 crates of goods available for loading
+port 39024: 1387 crates of goods available for loading
+port 39025: 3281 crates of goods available for loading
+port 39028: 4415 crates of goods available for loading
+port 39031: 4471 crates of goods available for loading
+port 39032: 1 crates of goods available for loading
+port 39033: 8426 crates of goods available for loading
+port 39034: 214 crates of goods available for loading
+port 39035: 6275 crates of goods available for loading
+port 39036: 7815 crates of goods available for loading
+port 39037: 2045 crates of goods available for loading
+port 39040: 5 crates of goods available for loading
+port 39041: 5538 crates of goods available for loading
+port 39042: 10 crates of goods available for loading
+port 39043: 3567 crates of goods available for loading
+port 39046: 3507 crates of goods available for loading
+port 39047: 1230 crates of goods available for loading
+port 39048: 1457 crates of goods available for loading
+port 39049: 38 crates of goods available for loading
+port 39054: 548 crates of goods available for loading
+port 39059: 4926 crates of goods available for loading
+port 39061: 1807 crates of goods available for loading
+port 39063: 3034 crates of goods available for loading
+port 39067: 1020 crates of goods available for loading
+port 39071: 2406 crates of goods available for loading
+port 39077: 19 crates of goods available for loading
+port 39084: 1072 crates of goods available for loading
+port 39089: 5198 crates of goods available for loading
+port 39091: 3581 crates of goods available for loading
+port 39092: 1093 crates of goods available for loading
+port 39093: 11582 crates of goods available for loading
+port 39094: 154 crates of goods available for loading
+port 39098: 2461 crates of goods available for loading
+port 39106: 1 crates of goods available for loading
+port 39008: dispatched 15801 crates of goods
+port 39009: dispatched 23342 crates of goods
+port 39010: dispatched 11551 crates of goods
+port 39011: dispatched 16816 crates of goods
+port 39012: dispatched 19289 crates of goods
+port 39013: received 22055 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 10246 crates of goods
+port 39016: dispatched 4468 crates of goods
+port 39017: dispatched 7490 crates of goods
+port 39018: dispatched 9778 crates of goods
+port 39019: dispatched 13429 crates of goods
+port 39020: received 20012 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 7711 crates of goods
+port 39023: dispatched 3989 crates of goods
+port 39024: dispatched 14360 crates of goods
+port 39025: dispatched 12277 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 6716 crates of goods
+port 39028: dispatched 9509 crates of goods
+port 39029: received 3777 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 3437 crates of goods
+port 39032: dispatched 106 crates of goods
+port 39033: dispatched 4293 crates of goods
+port 39034: dispatched 3634 crates of goods
+port 39035: dispatched 6033 crates of goods
+port 39036: dispatched 1397 crates of goods
+port 39037: dispatched 6267 crates of goods
+port 39038: received 12241 crates of goods
+port 39039: received 13536 crates of goods
+port 39040: dispatched 1358 crates of goods
+port 39041: dispatched 3052 crates of goods
+port 39042: dispatched 2461 crates of goods
+port 39043: dispatched 7854 crates of goods
+port 39044: received 4497 crates of goods
+port 39045: received 4237 crates of goods
+port 39046: dispatched 1670 crates of goods
+port 39047: dispatched 3543 crates of goods
+port 39048: dispatched 4272 crates of goods
+port 39049: dispatched 302 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 2171 crates of goods
+port 39052: received 2838 crates of goods
+port 39053: received 17329 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 352 crates of goods
+port 39056: dispatched 202 crates of goods
+port 39057: received 10249 crates of goods
+port 39058: received 635 crates of goods
+port 39059: dispatched 2466 crates of goods
+port 39060: received 17831 crates of goods
+port 39061: dispatched 4194 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1856 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 1490 crates of goods
+port 39066: received 4393 crates of goods
+port 39067: dispatched 1862 crates of goods
+port 39068: received 4237 crates of goods
+port 39069: received 1449 crates of goods
+port 39070: received 10692 crates of goods
+port 39071: dispatched 4670 crates of goods
+port 39072: received 17320 crates of goods
+port 39073: dispatched 2379 crates of goods
+port 39074: received 3611 crates of goods
+port 39075: received 38 crates of goods
+port 39076: received 5143 crates of goods
+port 39077: dispatched 5027 crates of goods
+port 39078: received 8702 crates of goods
+port 39079: received 12995 crates of goods
+port 39080: dispatched 720 crates of goods
+port 39081: received 168 crates of goods
+port 39082: received 16369 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 1938 crates of goods
+port 39085: dispatched 2281 crates of goods
+port 39086: dispatched 1173 crates of goods
+port 39087: received 3365 crates of goods
+port 39088: received 7632 crates of goods
+port 39089: dispatched 11743 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 3587 crates of goods
+port 39092: dispatched 7035 crates of goods
+port 39093: dispatched 3906 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 2557 crates of goods
+port 39096: dispatched 2459 crates of goods
+port 39097: received 8743 crates of goods
+port 39098: dispatched 1236 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 5415 crates of goods
+port 39101: dispatched 579 crates of goods
+port 39102: received 277 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 12605 crates of goods
+port 39105: received 6214 crates of goods
+port 39106: dispatched 1731 crates of goods
+port 39107: received 6053 crates of goods
+Total docks for each port: 10
+port 39013: busy docks: 6
+port 39020: busy docks: 3
+port 39038: busy docks: 1
+port 39057: busy docks: 2
+port 39060: busy docks: 1
+port 39070: busy docks: 5
+
+INFO VESSELS:
+Number of vessels traveling loaded: 348
+Number of vessels traveling empty: 284
+Number of vessels in port: 368
+
+INFO GOODS:
+Goods present at the port: 167807 crates of goods - type: 1
+Goods delivered: 276219 crates of goods - type: 1
+Goods in transit: 37534 crates of goods - type: 1
+Expired goods on board: 2530 crates of goods - type: 1
+Expired goods in port: 65628 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 4
+
+Ports affected by the swell:
+port 39085
+port 39013
+port 39063
+
+END OF DAY 8:
+
+INFO PORTS:
+port 39008: 13831 crates of goods available for loading
+port 39009: 21965 crates of goods available for loading
+port 39010: 9047 crates of goods available for loading
+port 39011: 6677 crates of goods available for loading
+port 39012: 11475 crates of goods available for loading
+port 39015: 8000 crates of goods available for loading
+port 39016: 1770 crates of goods available for loading
+port 39017: 4249 crates of goods available for loading
+port 39018: 7899 crates of goods available for loading
+port 39019: 6469 crates of goods available for loading
+port 39022: 10624 crates of goods available for loading
+port 39023: 6091 crates of goods available for loading
+port 39024: 7523 crates of goods available for loading
+port 39025: 4635 crates of goods available for loading
+port 39028: 5782 crates of goods available for loading
+port 39031: 5377 crates of goods available for loading
+port 39032: 8274 crates of goods available for loading
+port 39033: 9026 crates of goods available for loading
+port 39034: 4013 crates of goods available for loading
+port 39035: 8797 crates of goods available for loading
+port 39036: 7890 crates of goods available for loading
+port 39037: 2249 crates of goods available for loading
+port 39040: 1114 crates of goods available for loading
+port 39041: 3995 crates of goods available for loading
+port 39042: 100 crates of goods available for loading
+port 39043: 3582 crates of goods available for loading
+port 39046: 5380 crates of goods available for loading
+port 39047: 1232 crates of goods available for loading
+port 39048: 1480 crates of goods available for loading
+port 39049: 43 crates of goods available for loading
+port 39054: 397 crates of goods available for loading
+port 39055: 1569 crates of goods available for loading
+port 39059: 8824 crates of goods available for loading
+port 39061: 1808 crates of goods available for loading
+port 39063: 4036 crates of goods available for loading
+port 39067: 1967 crates of goods available for loading
+port 39071: 3155 crates of goods available for loading
+port 39073: 3612 crates of goods available for loading
+port 39077: 2974 crates of goods available for loading
+port 39084: 3949 crates of goods available for loading
+port 39085: 157 crates of goods available for loading
+port 39089: 10310 crates of goods available for loading
+port 39091: 3206 crates of goods available for loading
+port 39092: 629 crates of goods available for loading
+port 39093: 11569 crates of goods available for loading
+port 39094: 6019 crates of goods available for loading
+port 39098: 15844 crates of goods available for loading
+port 39101: 6535 crates of goods available for loading
+port 39106: 1634 crates of goods available for loading
+port 39008: dispatched 16057 crates of goods
+port 39009: dispatched 23429 crates of goods
+port 39010: dispatched 11587 crates of goods
+port 39011: dispatched 16827 crates of goods
+port 39012: dispatched 19315 crates of goods
+port 39013: received 28913 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 10253 crates of goods
+port 39016: dispatched 4474 crates of goods
+port 39017: dispatched 7500 crates of goods
+port 39018: dispatched 9784 crates of goods
+port 39019: dispatched 13432 crates of goods
+port 39020: received 24482 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 7718 crates of goods
+port 39023: dispatched 4288 crates of goods
+port 39024: dispatched 14375 crates of goods
+port 39025: dispatched 12343 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 6716 crates of goods
+port 39028: dispatched 9563 crates of goods
+port 39029: received 3925 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 4110 crates of goods
+port 39032: dispatched 106 crates of goods
+port 39033: dispatched 4328 crates of goods
+port 39034: dispatched 3697 crates of goods
+port 39035: dispatched 6033 crates of goods
+port 39036: dispatched 1410 crates of goods
+port 39037: dispatched 6267 crates of goods
+port 39038: received 14463 crates of goods
+port 39039: received 18230 crates of goods
+port 39040: dispatched 1358 crates of goods
+port 39041: dispatched 3053 crates of goods
+port 39042: dispatched 2507 crates of goods
+port 39043: dispatched 7923 crates of goods
+port 39044: received 4497 crates of goods
+port 39045: received 4237 crates of goods
+port 39046: dispatched 1781 crates of goods
+port 39047: dispatched 3568 crates of goods
+port 39048: dispatched 4282 crates of goods
+port 39049: dispatched 303 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 2207 crates of goods
+port 39052: received 4143 crates of goods
+port 39053: received 19931 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 625 crates of goods
+port 39056: dispatched 208 crates of goods
+port 39057: received 12311 crates of goods
+port 39058: received 635 crates of goods
+port 39059: dispatched 2466 crates of goods
+port 39060: received 19797 crates of goods
+port 39061: dispatched 4228 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1856 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 1517 crates of goods
+port 39066: received 4479 crates of goods
+port 39067: dispatched 1876 crates of goods
+port 39068: received 7586 crates of goods
+port 39069: received 1449 crates of goods
+port 39070: received 13995 crates of goods
+port 39071: dispatched 4671 crates of goods
+port 39072: received 20856 crates of goods
+port 39073: dispatched 2379 crates of goods
+port 39074: received 3772 crates of goods
+port 39075: received 44 crates of goods
+port 39076: received 5853 crates of goods
+port 39077: dispatched 5884 crates of goods
+port 39078: received 11243 crates of goods
+port 39079: received 15569 crates of goods
+port 39080: dispatched 720 crates of goods
+port 39081: received 168 crates of goods
+port 39082: received 18159 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 1984 crates of goods
+port 39085: dispatched 2282 crates of goods
+port 39086: dispatched 1173 crates of goods
+port 39087: received 4625 crates of goods
+port 39088: received 8106 crates of goods
+port 39089: dispatched 15082 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 5357 crates of goods
+port 39092: dispatched 7149 crates of goods
+port 39093: dispatched 5820 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 2803 crates of goods
+port 39096: dispatched 2459 crates of goods
+port 39096: received 7 crates of goods
+port 39097: received 8819 crates of goods
+port 39098: dispatched 1373 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 5415 crates of goods
+port 39101: dispatched 579 crates of goods
+port 39102: received 281 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 12605 crates of goods
+port 39105: received 6214 crates of goods
+port 39106: dispatched 1731 crates of goods
+port 39107: received 6282 crates of goods
+Total docks for each port: 10
+port 39013: busy docks: 2
+
+INFO VESSELS:
+Number of vessels traveling loaded: 3
+Number of vessels traveling empty: 603
+Number of vessels in port: 352
+
+INFO GOODS:
+Goods present at the port: 276783 crates of goods - type: 1
+Goods delivered: 322934 crates of goods - type: 1
+Goods in transit: 286 crates of goods - type: 1
+Expired goods on board: 3532 crates of goods - type: 1
+Expired goods in port: 73751 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 4
+
+Ports affected by the swell:
+port 39085
+port 39013
+port 39063
+port 39084
+
+END OF DAY 9:
+
+INFO PORTS:
+port 39008: 13825 crates of goods available for loading
+port 39009: 13452 crates of goods available for loading
+port 39010: 9047 crates of goods available for loading
+port 39011: 5408 crates of goods available for loading
+port 39012: 11475 crates of goods available for loading
+port 39015: 4969 crates of goods available for loading
+port 39016: 77 crates of goods available for loading
+port 39017: 4147 crates of goods available for loading
+port 39018: 7899 crates of goods available for loading
+port 39019: 3440 crates of goods available for loading
+port 39022: 10216 crates of goods available for loading
+port 39023: 5650 crates of goods available for loading
+port 39024: 6878 crates of goods available for loading
+port 39025: 3190 crates of goods available for loading
+port 39028: 3140 crates of goods available for loading
+port 39031: 5252 crates of goods available for loading
+port 39032: 5007 crates of goods available for loading
+port 39033: 6503 crates of goods available for loading
+port 39034: 224 crates of goods available for loading
+port 39035: 2908 crates of goods available for loading
+port 39036: 7890 crates of goods available for loading
+port 39037: 2045 crates of goods available for loading
+port 39040: 932 crates of goods available for loading
+port 39041: 2135 crates of goods available for loading
+port 39042: 49 crates of goods available for loading
+port 39043: 3573 crates of goods available for loading
+port 39046: 2546 crates of goods available for loading
+port 39047: 1230 crates of goods available for loading
+port 39048: 1478 crates of goods available for loading
+port 39049: 43 crates of goods available for loading
+port 39054: 371 crates of goods available for loading
+port 39055: 1568 crates of goods available for loading
+port 39059: 6997 crates of goods available for loading
+port 39061: 1808 crates of goods available for loading
+port 39063: 3034 crates of goods available for loading
+port 39067: 1967 crates of goods available for loading
+port 39071: 3155 crates of goods available for loading
+port 39073: 579 crates of goods available for loading
+port 39077: 98 crates of goods available for loading
+port 39084: 3132 crates of goods available for loading
+port 39085: 157 crates of goods available for loading
+port 39089: 10559 crates of goods available for loading
+port 39091: 2766 crates of goods available for loading
+port 39092: 629 crates of goods available for loading
+port 39093: 11599 crates of goods available for loading
+port 39094: 5218 crates of goods available for loading
+port 39098: 2900 crates of goods available for loading
+port 39101: 63 crates of goods available for loading
+port 39106: 17 crates of goods available for loading
+port 39008: dispatched 16057 crates of goods
+port 39009: dispatched 26990 crates of goods
+port 39010: dispatched 14167 crates of goods
+port 39011: dispatched 16827 crates of goods
+port 39012: dispatched 24851 crates of goods
+port 39013: received 28913 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 10253 crates of goods
+port 39016: dispatched 4474 crates of goods
+port 39017: dispatched 7500 crates of goods
+port 39018: dispatched 9917 crates of goods
+port 39019: dispatched 17232 crates of goods
+port 39020: received 24560 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 7891 crates of goods
+port 39023: dispatched 7185 crates of goods
+port 39024: dispatched 14477 crates of goods
+port 39025: dispatched 12343 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 6716 crates of goods
+port 39028: dispatched 9563 crates of goods
+port 39029: received 3925 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 4110 crates of goods
+port 39032: dispatched 106 crates of goods
+port 39033: dispatched 4328 crates of goods
+port 39034: dispatched 3697 crates of goods
+port 39035: dispatched 6094 crates of goods
+port 39036: dispatched 4679 crates of goods
+port 39037: dispatched 6267 crates of goods
+port 39038: received 14463 crates of goods
+port 39039: received 18488 crates of goods
+port 39040: dispatched 1358 crates of goods
+port 39041: dispatched 4995 crates of goods
+port 39042: dispatched 2507 crates of goods
+port 39043: dispatched 7923 crates of goods
+port 39044: received 4497 crates of goods
+port 39045: received 4237 crates of goods
+port 39046: dispatched 2039 crates of goods
+port 39047: dispatched 3568 crates of goods
+port 39048: dispatched 4282 crates of goods
+port 39049: dispatched 303 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 2207 crates of goods
+port 39052: received 4143 crates of goods
+port 39053: received 23242 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 625 crates of goods
+port 39056: dispatched 208 crates of goods
+port 39057: received 14761 crates of goods
+port 39058: received 667 crates of goods
+port 39059: dispatched 2466 crates of goods
+port 39060: received 20229 crates of goods
+port 39061: dispatched 4228 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 1856 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 1517 crates of goods
+port 39066: received 4799 crates of goods
+port 39067: dispatched 1876 crates of goods
+port 39068: received 7647 crates of goods
+port 39069: received 1861 crates of goods
+port 39070: received 17646 crates of goods
+port 39071: dispatched 4671 crates of goods
+port 39072: received 21600 crates of goods
+port 39073: dispatched 2379 crates of goods
+port 39074: received 4699 crates of goods
+port 39075: received 44 crates of goods
+port 39076: received 7487 crates of goods
+port 39077: dispatched 5884 crates of goods
+port 39078: received 11243 crates of goods
+port 39079: received 21379 crates of goods
+port 39080: dispatched 720 crates of goods
+port 39081: received 168 crates of goods
+port 39082: received 18362 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 1984 crates of goods
+port 39085: dispatched 2282 crates of goods
+port 39086: dispatched 1173 crates of goods
+port 39087: received 4625 crates of goods
+port 39088: received 8897 crates of goods
+port 39089: dispatched 15082 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 5357 crates of goods
+port 39092: dispatched 7149 crates of goods
+port 39093: dispatched 5820 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 2803 crates of goods
+port 39096: dispatched 2459 crates of goods
+port 39096: received 7 crates of goods
+port 39097: received 8869 crates of goods
+port 39098: dispatched 1373 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 5415 crates of goods
+port 39101: dispatched 579 crates of goods
+port 39102: received 281 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 12605 crates of goods
+port 39105: received 6214 crates of goods
+port 39106: dispatched 1731 crates of goods
+port 39107: received 6302 crates of goods
+Total docks for each port: 10
+port 39009: busy docks: 1
+port 39015: busy docks: 1
+port 39022: busy docks: 1
+
+INFO VESSELS:
+Number of vessels traveling loaded: 13
+Number of vessels traveling empty: 634
+Number of vessels in port: 353
+
+INFO GOODS:
+Goods present at the port: 201245 crates of goods - type: 1
+Goods delivered: 344118 crates of goods - type: 1
+Goods in transit: 3414 crates of goods - type: 1
+Expired goods on board: 3532 crates of goods - type: 1
+Expired goods in port: 152562 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 5
+
+Ports affected by the swell:
+port 39085
+port 39013
+port 39063
+port 39084
+
+END OF DAY 10:
+
+INFO PORTS:
+port 39008: 9172 crates of goods available for loading
+port 39009: 6525 crates of goods available for loading
+port 39010: 5984 crates of goods available for loading
+port 39011: 3178 crates of goods available for loading
+port 39012: 10827 crates of goods available for loading
+port 39015: 17 crates of goods available for loading
+port 39016: 128 crates of goods available for loading
+port 39017: 7978 crates of goods available for loading
+port 39018: 9765 crates of goods available for loading
+port 39019: 6426 crates of goods available for loading
+port 39022: 4389 crates of goods available for loading
+port 39023: 6953 crates of goods available for loading
+port 39024: 10856 crates of goods available for loading
+port 39025: 1364 crates of goods available for loading
+port 39028: 1688 crates of goods available for loading
+port 39031: 6482 crates of goods available for loading
+port 39032: 11109 crates of goods available for loading
+port 39033: 2972 crates of goods available for loading
+port 39034: 3454 crates of goods available for loading
+port 39035: 3782 crates of goods available for loading
+port 39036: 3707 crates of goods available for loading
+port 39037: 426 crates of goods available for loading
+port 39040: 4833 crates of goods available for loading
+port 39041: 5062 crates of goods available for loading
+port 39042: 1276 crates of goods available for loading
+port 39043: 11 crates of goods available for loading
+port 39046: 2212 crates of goods available for loading
+port 39047: 1495 crates of goods available for loading
+port 39048: 22 crates of goods available for loading
+port 39049: 2152 crates of goods available for loading
+port 39054: 4288 crates of goods available for loading
+port 39055: 4008 crates of goods available for loading
+port 39056: 807 crates of goods available for loading
+port 39059: 2079 crates of goods available for loading
+port 39061: 1748 crates of goods available for loading
+port 39063: 2798 crates of goods available for loading
+port 39065: 1853 crates of goods available for loading
+port 39067: 3140 crates of goods available for loading
+port 39071: 1532 crates of goods available for loading
+port 39073: 1858 crates of goods available for loading
+port 39077: 915 crates of goods available for loading
+port 39084: 2092 crates of goods available for loading
+port 39085: 10474 crates of goods available for loading
+port 39089: 15409 crates of goods available for loading
+port 39091: 5340 crates of goods available for loading
+port 39092: 1273 crates of goods available for loading
+port 39093: 2078 crates of goods available for loading
+port 39094: 5084 crates of goods available for loading
+port 39098: 479 crates of goods available for loading
+port 39101: 224 crates of goods available for loading
+port 39106: 19 crates of goods available for loading
+port 39008: dispatched 17594 crates of goods
+port 39009: dispatched 32901 crates of goods
+port 39010: dispatched 14389 crates of goods
+port 39011: dispatched 16827 crates of goods
+port 39012: dispatched 25486 crates of goods
+port 39013: received 28916 crates of goods
+port 39014: dispatched 952 crates of goods
+port 39015: dispatched 10253 crates of goods
+port 39016: dispatched 4474 crates of goods
+port 39017: dispatched 9874 crates of goods
+port 39018: dispatched 11696 crates of goods
+port 39019: dispatched 18798 crates of goods
+port 39020: received 24892 crates of goods
+port 39021: dispatched 916 crates of goods
+port 39022: dispatched 11397 crates of goods
+port 39023: dispatched 13021 crates of goods
+port 39024: dispatched 19100 crates of goods
+port 39025: dispatched 13709 crates of goods
+port 39026: dispatched 3701 crates of goods
+port 39027: received 6716 crates of goods
+port 39028: dispatched 11224 crates of goods
+port 39029: received 3925 crates of goods
+port 39030: dispatched 8076 crates of goods
+port 39031: dispatched 4652 crates of goods
+port 39032: dispatched 979 crates of goods
+port 39033: dispatched 7818 crates of goods
+port 39034: dispatched 3697 crates of goods
+port 39035: dispatched 7857 crates of goods
+port 39036: dispatched 8525 crates of goods
+port 39037: dispatched 6274 crates of goods
+port 39038: received 14463 crates of goods
+port 39039: received 18488 crates of goods
+port 39040: dispatched 1358 crates of goods
+port 39041: dispatched 5371 crates of goods
+port 39042: dispatched 3179 crates of goods
+port 39043: dispatched 7923 crates of goods
+port 39044: received 4497 crates of goods
+port 39045: received 4237 crates of goods
+port 39046: dispatched 2039 crates of goods
+port 39047: dispatched 4103 crates of goods
+port 39048: dispatched 4282 crates of goods
+port 39049: dispatched 453 crates of goods
+port 39050: dispatched 4431 crates of goods
+port 39051: received 2207 crates of goods
+port 39052: received 4143 crates of goods
+port 39053: received 23242 crates of goods
+port 39054: dispatched 2630 crates of goods
+port 39055: dispatched 987 crates of goods
+port 39056: dispatched 208 crates of goods
+port 39057: received 14916 crates of goods
+port 39058: received 667 crates of goods
+port 39059: dispatched 2811 crates of goods
+port 39060: received 20229 crates of goods
+port 39061: dispatched 5012 crates of goods
+port 39062: dispatched 1 crates of goods
+port 39063: dispatched 2848 crates of goods
+port 39064: dispatched 3 crates of goods
+port 39065: dispatched 3047 crates of goods
+port 39066: received 4799 crates of goods
+port 39067: dispatched 2025 crates of goods
+port 39068: received 7647 crates of goods
+port 39069: received 1861 crates of goods
+port 39070: received 17653 crates of goods
+port 39071: dispatched 4671 crates of goods
+port 39072: received 21600 crates of goods
+port 39073: dispatched 5988 crates of goods
+port 39074: received 4699 crates of goods
+port 39075: received 44 crates of goods
+port 39076: received 7487 crates of goods
+port 39077: dispatched 5884 crates of goods
+port 39078: received 11243 crates of goods
+port 39079: received 21379 crates of goods
+port 39080: dispatched 720 crates of goods
+port 39081: received 168 crates of goods
+port 39082: received 18362 crates of goods
+port 39083: received 79 crates of goods
+port 39084: dispatched 3580 crates of goods
+port 39085: dispatched 4490 crates of goods
+port 39086: dispatched 1173 crates of goods
+port 39087: received 4625 crates of goods
+port 39088: received 9178 crates of goods
+port 39089: dispatched 15691 crates of goods
+port 39090: dispatched 402 crates of goods
+port 39091: dispatched 5357 crates of goods
+port 39092: dispatched 7149 crates of goods
+port 39093: dispatched 5820 crates of goods
+port 39094: dispatched 2133 crates of goods
+port 39095: received 2803 crates of goods
+port 39096: dispatched 2459 crates of goods
+port 39096: received 7 crates of goods
+port 39097: received 8869 crates of goods
+port 39098: dispatched 1373 crates of goods
+port 39099: received 38 crates of goods
+port 39100: received 5415 crates of goods
+port 39101: dispatched 579 crates of goods
+port 39102: received 281 crates of goods
+port 39103: dispatched 417 crates of goods
+port 39104: received 12605 crates of goods
+port 39105: received 6214 crates of goods
+port 39106: dispatched 1731 crates of goods
+port 39107: received 6302 crates of goods
+Total docks for each port: 10
+port 39015: busy docks: 3
+port 39018: busy docks: 2
+port 39022: busy docks: 1
+port 39024: busy docks: 5
+port 39037: busy docks: 1
+port 39042: busy docks: 1
+port 39056: busy docks: 1
+port 39065: busy docks: 1
+port 39085: busy docks: 1
+
+INFO VESSELS:
+Number of vessels traveling loaded: 263
+Number of vessels traveling empty: 371
+Number of vessels in port: 366
+
+INFO GOODS:
+Goods present at the port: 201743 crates of goods - type: 1
+Goods delivered: 344896 crates of goods - type: 1
+Goods in transit: 58090 crates of goods - type: 1
+Expired goods on board: 3532 crates of goods - type: 1
+Expired goods in port: 252563 crates of goods - type: 1
+
+
+INFO WEATHER:
+Number of ships slowed down by the storm: 5
+
+Ports affected by the swell:
+port 39085
+port 39013
+port 39063
+port 39084
+port 39087
+
+PORTS AWARD 2023:
+The winner of the port award for the most productive port is port number: 39009
+The winner of the port award for the most demanding port is port number: 39013
+It was a pleasure playing with you, until next time!
